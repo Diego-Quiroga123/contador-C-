@@ -12,3 +12,4 @@ c:\Users\zombi\OneDrive\Escritorio\c#\obj\Debug\net9.0\refint\c#.dll
 c:\Users\zombi\OneDrive\Escritorio\c#\obj\Debug\net9.0\c#.pdb
 c:\Users\zombi\OneDrive\Escritorio\c#\obj\Debug\net9.0\c#.genruntimeconfig.cache
 c:\Users\zombi\OneDrive\Escritorio\c#\obj\Debug\net9.0\ref\c#.dll
+C:\Users\zombi\oneDrive\escritorio\c#\obj\Debug\net9.0\c#.sourcelink.json
